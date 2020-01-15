@@ -1,0 +1,23 @@
+{
+  "name": "downloadqqspaceimage",
+  "version": "1.0.0",
+  "description": "下载qq空间相册的图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenendian/downloadQQSpaceImage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenendian/downloadQQSpaceImage/issues"
+  },
+  "homepage": "https://github.com/chenendian/downloadQQSpaceImage#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0"
+  }
+}
